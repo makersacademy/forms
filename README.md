@@ -3,6 +3,9 @@
 A common way to send data from a browser to a server
 is using.
 
+### Run the server
+`ruby app.rb`
+
 #### Task 1
 Fill out each of the forms and observe what happens.
 It may look similar but each form is subtly different.
